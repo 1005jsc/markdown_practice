@@ -123,5 +123,6 @@ console.log(`sourceCode`)
     - 이 extension은 이미 visual studio에 깔려있는거라 설치할 필요 없음
     - preview보고자 하는 readme.md파일을 클릭하고 ctrl+shift+v를 누르면 바로 튀어나옴
 
-
-
+- readMe 는 html을 지원하지만 아래의 스펙은 지원하지 않는다 
+<title> <textarea> <style> <xmp> <iframe> <noembed> <noframes> <script> <plaintext>
+    아쉽다...
