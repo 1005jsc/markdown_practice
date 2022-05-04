@@ -118,6 +118,14 @@ console.log(`sourceCode`)
     1. 한 줄만 개행: 문장의 끝에 스페이스바를 두번 넣고 엔터를 입력
     2. 문단 단위 구분을 위한 개행: 엔터를 두번 누름
     3. 브롤테그 이용 (<br/) 
+- 띄어쓰기 하기 2가지
+    1. &nbsp; 근데 너무 작음
+    2. ' ' : 전각문자, ' '안에있는 이거 그대로 복사해서 쓰면 됨 
+    3. '   ': [여기 클릭해서 받아오면 되는데 또 안되니...](https://kimasill.tistory.com/entry/MarkDown-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0%EA%B3%B5%EB%B0%B1-%EC%A4%84%EB%B0%94%EA%BF%88-%EC%82%AC%EC%9A%A9%EB%B2%95)
+
+
+
+
 
 - visual studio의 markdown preview이용하기
     - 이 extension은 이미 visual studio에 깔려있는거라 설치할 필요 없음
