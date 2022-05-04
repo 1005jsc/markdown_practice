@@ -71,6 +71,41 @@ console.log(`sourceCode`)
 
 틀린거 있을 수 있음
 
+## 6. 테이블
+
+'|Header|Description|'  
+'|----|----|'  
+
+까지만 입력하면 한 테이블이 완성된다 
+
+|Header|Description|
+|----|-- |
+|Cell1|Cell2|
+
+이때 짝대기 안의 '-'개수는 상관없고, 스페이스바 유무도 상관없다 
+ 
+ 
+여기서
+
+'|:----|:-- |'
+왼쪽에 ':'을 넣어주면 왼쪽정렬
+
+
+'|----:|--:|'
+오른쪽에 ':'을 넣어주면 오른쪽정렬
+
+
+'|:----:|:--:|'
+양쪽에 ':'을 넣어주면 가운뎃정렬이 된다 
+
+
+
+
+
+
+
+
+
 ## 6. 이외 기본
 
 - 개행(new line) 방법 세 가지
@@ -81,3 +116,6 @@ console.log(`sourceCode`)
 - visual studio의 markdown preview이용하기
     - 이 extension은 이미 visual studio에 깔려있는거라 설치할 필요 없음
     - preview보고자 하는 readme.md파일을 클릭하고 ctrl+shift+v를 누르면 바로 튀어나옴
+
+
+
