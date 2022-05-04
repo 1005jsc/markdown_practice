@@ -105,6 +105,18 @@ console.log(`sourceCode`)
 | :-------: | :---- | :-----------: |
 
 
+
+불행하게도 markdown의 테이블은 셀 병합이라든지 안된다
+
+The remainder of the table’s rows may vary in the number of cells. 
+If there are a number of cells fewer than the number of cells in the header row, empty cells are inserted.
+If there are greater, the excess is ignored:
+
+이럴땐 raw html로 작성해야함 (구글에 'markdown 셀 병합' 검색 ㄱ)
+
+
+
+
 ## 7. 문장 안에서 코드 보여주기 
 
 - 코드인 부분만 백틱으로 감싸면 된다 
