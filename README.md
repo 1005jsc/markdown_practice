@@ -76,3 +76,7 @@ console.log(`sourceCode`)
 - 개행(new line)
     1. 한 줄만 개행: 문장의 끝에 스페이스바를 두번 넣고 엔터를 입력
     2. 문단 단위 구분을 위한 개행: 엔터를 두번 누름
+
+- visual studio의 markdown preview이용하기
+    - 이 extension은 이미 visual studio에 깔려있는거라 설치할 필요 없음
+    - preview보고자 하는 readme.md파일을 클릭하고 ctrl+shift+v를 누르면 바로 튀어나옴
