@@ -138,7 +138,7 @@ If there are greater, the excess is ignored:
     4. '  ': 보니까 전각문자 2개면 tab들여쓰기 구현 충분히 할수 있음. 이거 그대로 복사해서 쓰면 됨 
 
 
-
+- 글씨에 색 집어 넣는건 안된다 ㅠㅠㅠㅠㅠ 빨간색 글씨로 강조하고 싶어도 못함 
 
 
 - visual studio의 markdown preview이용하기
