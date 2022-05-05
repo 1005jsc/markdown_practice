@@ -1,8 +1,5 @@
 # read-me-쓰는 법
 
-연습사이트 : 화라리님의 web-to
-
-[https://github.com/leehwarang/javascript-web-todo](https://github.com/leehwarang/javascript-web-todo)
 
 ## 1. 글씨크기
 
