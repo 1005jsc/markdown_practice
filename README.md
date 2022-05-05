@@ -119,7 +119,12 @@ If there are greater, the excess is ignored:
 - 코드인 부분만 백틱으로 감싸면 된다 
     hello hi `console.log('hello hi')`
     
-
+## 8. 리드미 페이지 내 이동하는 링크 걸기
+    [**웹 서비스 소개**(#1
+      
+    div id="1"></div
+    
+    '웹서비스 소개'를 누르게 되면 div id="1"로 이동하게 된다 
 
 ## 8. 이외 기본
 
