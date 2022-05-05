@@ -1,4 +1,4 @@
-# read-me-practice
+# read-me-쓰는 법
 
 연습사이트 : 화라리님의 web-to
 
